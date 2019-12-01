@@ -1,0 +1,248 @@
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.deps.json
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.runtimeconfig.json
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.runtimeconfig.dev.json
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.dll
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.pdb
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.Views.dll
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.Views.pdb
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorAssemblyInfo.cache
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorAssemblyInfo.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.AssemblyInfo.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.TagHelpers.input.cache
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.TagHelpers.output.cache
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorCoreGenerate.cache
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorTargetAssemblyInfo.cache
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorTargetAssemblyInfo.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.Views.pdb
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.dll
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.pdb
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.csproj.CopyComplete
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout-Administrador.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout-Index.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Create.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Delete.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Details.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Edit.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Index.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Cardapio.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contato.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sobre.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Create.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Delete.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Details.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Edit.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Index.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Tamanhoes\Create.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Tamanhoes\Delete.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Tamanhoes\Details.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Tamanhoes\Edit.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Tamanhoes\Index.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TamanhoProdutoes\Create.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TamanhoProdutoes\Delete.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TamanhoProdutoes\Details.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TamanhoProdutoes\Edit.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TamanhoProdutoes\Index.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Create.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Delete.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Details.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Edit.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Index.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\etec\Desktop\New\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.deps.json
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.runtimeconfig.json
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.runtimeconfig.dev.json
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.dll
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.pdb
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.Views.dll
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.Views.pdb
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorAssemblyInfo.cache
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorAssemblyInfo.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.AssemblyInfo.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.TagHelpers.input.cache
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.TagHelpers.output.cache
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorCoreGenerate.cache
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Create.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Delete.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Details.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Edit.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Index.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Cardapio.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contato.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sobre.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Create.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Delete.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Details.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Edit.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Index.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout-Administrador.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout-Index.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Create.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Delete.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Details.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Edit.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Index.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorTargetAssemblyInfo.cache
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorTargetAssemblyInfo.cs
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.Views.pdb
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.dll
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.pdb
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.csproj.CopyComplete
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.deps.json
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.runtimeconfig.json
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.runtimeconfig.dev.json
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.dll
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.pdb
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.Views.dll
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.Views.pdb
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorAssemblyInfo.cache
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorAssemblyInfo.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.AssemblyInfo.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.TagHelpers.input.cache
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.TagHelpers.output.cache
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorCoreGenerate.cache
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Create.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Delete.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Details.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Edit.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Index.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Cardapio.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contato.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sobre.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Create.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Delete.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Details.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Edit.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Index.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout-Administrador.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout-Index.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Tamanhoes\Create.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Tamanhoes\Delete.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Tamanhoes\Details.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Tamanhoes\Edit.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Tamanhoes\Index.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TamanhoProdutoes\Create.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TamanhoProdutoes\Delete.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TamanhoProdutoes\Details.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TamanhoProdutoes\Edit.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TamanhoProdutoes\Index.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Create.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Delete.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Details.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Edit.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Index.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorTargetAssemblyInfo.cache
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorTargetAssemblyInfo.cs
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.Views.pdb
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.dll
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.pdb
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.csproj.CopyComplete
+C:\Users\etec\Desktop\TCC CERTO\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.csprojAssemblyReference.cache
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.deps.json
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.runtimeconfig.json
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.runtimeconfig.dev.json
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.dll
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.pdb
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.Views.dll
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\bin\Debug\netcoreapp2.1\DiskPastel.Views.pdb
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.csprojAssemblyReference.cache
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.csproj.CoreCompileInputs.cache
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorAssemblyInfo.cache
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorAssemblyInfo.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.AssemblyInfoInputs.cache
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.AssemblyInfo.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.TagHelpers.input.cache
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.TagHelpers.output.cache
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorCoreGenerate.cache
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Create.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Delete.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Details.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Edit.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Destaques\Index.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Cardapio.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contato.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sobre.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Create.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Delete.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Details.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Edit.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Produtoes\Index.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout-Administrador.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout-Index.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Create.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Delete.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Details.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Edit.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\TipoProdutoes\Index.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorTargetAssemblyInfo.cache
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.RazorTargetAssemblyInfo.cs
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.Views.pdb
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.dll
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.pdb
+C:\Users\luggd\Desktop\DiskPastel 1.8\DiskPastel\DiskPastel\obj\Debug\netcoreapp2.1\DiskPastel.csproj.CopyComplete

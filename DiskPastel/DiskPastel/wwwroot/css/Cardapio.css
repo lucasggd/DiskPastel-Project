@@ -1,0 +1,24 @@
+﻿body {
+}
+
+.tam-img {
+    width: 450px;
+    height: auto;
+}
+
+.tam-img2 {
+    width: 150px;
+    height: auto;
+    max-height:100px;
+}
+.nome-pastel{
+    font-size:24px;
+}
+
+.valor-pastel {
+    font-size: 17px;
+    color: red;
+}
+.esp-cima-pastel{
+    margin-top:10px;
+}

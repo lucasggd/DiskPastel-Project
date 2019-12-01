@@ -1,0 +1,28 @@
+﻿html, body {
+    margin:0 auto;
+    height:100%;
+}
+
+.navbarcor {
+    background-color: #941711;
+}
+.corTexto{
+    color: #fff!important;
+}
+.icone{
+    z-index:1;
+}
+.centro{
+    text-align: center;
+}
+.conteudo {
+    height: auto;
+    min-height: calc(100% - 281px);
+}
+.footer{
+    width:100%;
+    margin-left:0px!important;
+}
+.esp-baixo{
+    margin-bottom:80px;
+}

@@ -1,0 +1,60 @@
+﻿html, body {
+    margin:0;
+}
+
+.carousel-inner img {
+    height: 600px !important;
+    width: 100% !important;
+    object-fit: cover !important;
+}
+.esp-cima{
+    margin-top:50px;
+}
+
+.pasteisMaisVendidos {
+    height: 200px;
+    object-fit: cover !important;
+}
+
+.nome-sabor{
+    font-size:20px;
+    font-family:sans-serif;
+}
+
+.div-sobre{
+    height:400px;
+}
+
+.color-branco{
+    color: #fff;
+}
+.background {
+    background-image: url('../images/background/pastelbackground.png');
+    background-position-y: center;
+    background-position-x: center;
+}
+.esp-cima-padding{
+    padding-top:50px;
+}
+
+.centro-imagem {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.local{
+    margin-top:250px;
+}
+.background-cinza {
+    width:100%;
+    height:auto;
+    padding-bottom:50px;
+    background-color: #EFEFEF;
+}
+.esp-cima-endereco{
+    margin-top:130px;
+}
+.esp-baixo2 {
+    margin-bottom: 20px;
+}

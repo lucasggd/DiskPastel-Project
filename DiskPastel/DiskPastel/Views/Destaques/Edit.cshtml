@@ -1,0 +1,33 @@
+﻿@model DiskPastel.Models.Destaques
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout-Administrador.cshtml";
+}
+
+<h2>Editar</h2>
+
+<h4>Destaques</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Iddestaque" />
+            <div class="form-group">
+                <label asp-for="Data" class="control-label"></label>
+                <input asp-for="Data" class="form-control" />
+                <span asp-validation-for="Data" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Idproduto" class="control-label">Nome Produto</label>
+                <select asp-for="Idproduto" class="form-control" asp-items="ViewBag.Idproduto"></select>
+                <span asp-validation-for="Idproduto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-danger">Voltar</a>
+            </div>
+        </form>
+    </div>
+</div>

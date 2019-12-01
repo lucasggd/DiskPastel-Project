@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - DiskPastel</title>
+
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        <link href="~/css/navbar.css" rel="stylesheet" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light navbarcor esp-baixo">
+
+        <a class="navbar-brand" href="/home/">
+            <div style="padding-left: 600px"></div>
+            <img style="padding-left: 180px" class="position-absolute icone" height="100px" src="~/images/icon.png" />
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
+            <div class="navbar-nav centro">
+                <a class="nav-item nav-link active corTexto" asp-action="Index" asp-controller="Destaques">Destaques<span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link active corTexto" asp-action="Index" asp-controller="Produtoes">Produtos</a>
+                <a class="nav-item nav-link active corTexto" asp-action="Index" asp-controller="TipoProdutoes">Tipo</a>
+            </div>
+            <partial name="_LoginPartial" />
+        </div>
+    </nav>
+
+    <div class="container conteudo esp-baixo">
+        @RenderBody()
+    </div>
+
+    <div>
+        <footer class="navbarcor corTexto row mw-100 footer">
+            <div class="col-2">
+                <img src="~/images/icon.png" class="icone" />
+            </div>
+            <div class="col-10 row esp-cima">
+                <div class="w-100 col-4">
+                    <h3 class="">Endereço</h3>
+                    <p class="footer">Rua: Avenida Dr, Av. Dr. Dionísio Dutra e Silva, 365</p>
+                    <p class="footer">Cidade: Barra Bonita, Cohab - SP</p>
+                    <p class="footer">CEP: 17340-000</p>
+                </div>
+
+                <div class="w-100 col-4">
+                    <h3 class="">Contato</h3>
+                    <p class="footer">Telefone: (14) 3641-8339</p>
+                    <p class="footer">Whatsapp: (14) 99157-0448</p>
+                    <p class="footer">E-mail: diskpastel@hotmail.com</p>
+                </div>
+
+                <div class="w-100 col-4">
+                    <h3 class="centro">Redes Sociais</h3>
+                    <div class="row">
+                        <div class="col-4">
+                            <a href="https://www.facebook.com/pages/category/Local-Business/Disk-Pastel-Barra-Bonita-853816418105840/">
+                                <img src="~/images/sociais/face.png" class="mw-100" />
+                            </a>
+                        </div>
+                        <div class="col-4">
+                            <a href="https://www.facebook.com/pages/category/Local-Business/Disk-Pastel-Barra-Bonita-853816418105840/">
+                                <img src="~/images/sociais/insta.png" class="mw-100" />
+                            </a>
+                        </div>
+                        <div class="col-4">
+                            <a href="https://www.facebook.com/pages/category/Local-Business/Disk-Pastel-Barra-Bonita-853816418105840/">
+                                <img src="~/images/sociais/twitter.png" class="mw-100" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="esp-cima w-100 esp-baixo row">
+                    <div class="col-4">
+                    </div>
+                    <div class="col-4">
+                        <p class="footer">&copy; 2019 - DiskPastel</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                crossorigin="anonymous"
+                integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+        </script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+    </environment>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

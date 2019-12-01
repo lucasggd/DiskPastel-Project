@@ -1,0 +1,25 @@
+﻿@model DiskPastel.Models.TipoProduto
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout-Administrador.cshtml";
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Tipo Produto</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IdtipoProduto" class="btn btn-success">Editar</a> |
+    <a asp-action="Index" class="btn btn-danger">Voltar</a>
+</div>

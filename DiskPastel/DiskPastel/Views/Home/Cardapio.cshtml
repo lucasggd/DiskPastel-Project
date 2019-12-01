@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "Cardapio";
+}
+
+
+@foreach (var item in Model)
+{
+    <h2 class="centro esp-cima esp-baixo2">@item.TipoProduto</h2>
+
+    <div class="row esp-cima-pastel">
+        @if (item.Cardapio.Count == 0)
+        {
+            <div class="col-sm-12 border py-3 text-center">
+                <h2>Aguarde novidades</h2>
+            </div>
+        }
+        else
+        {
+            @foreach (var produto in item.Cardapio)
+            {
+                <div class="col-sm-6 border py-3">
+                    @{ var imagem = "/images/Cardapio/" + @produto.Idproduto + ".jpg";}
+                    <img class="tam-img2 tam-img3 float-left" src="@imagem">
+                    <p class="nome-pastel centro">@produto.Nome</p>
+                    <p class="valor-pastel centro">R$@produto.Venda</p>
+                </div>
+            }
+        }
+    </div>
+
+}
+
+
+<link href="~/css/index.css" rel="stylesheet" />
+<link href="~/css/Cardapio.css" rel="stylesheet" />

@@ -1,0 +1,31 @@
+﻿@model DiskPastel.Models.Destaques
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout-Administrador.cshtml";
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Destaques</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+        <dt>
+            Produto
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdprodutoNavigation.Custo)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Iddestaque" class="btn btn-success">Editar</a> |
+    <a asp-action="Index" class="btn btn-danger">Voltar</a>
+</div>
